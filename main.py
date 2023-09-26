@@ -49,7 +49,7 @@ def convert_from_decimal(base, number):
 
     Args:
         base (int): Base of number to convert to, up to 16
-        number (str): Decimal number to convert
+        number (int): Decimal number to convert
 
     Returns:
         str: Number in specified base
@@ -81,5 +81,5 @@ def convert_from_decimal(base, number):
 
 
 if __name__ == "__main__":
-    print(f"408F (hexidecimal) in decimal is {convert_to_decimal(16, '408F')}.")
-    print(f"3635 (decimal) in hexidecimal is {convert_from_decimal(16, 3635)}.")
+    print(f"408F (hexadecimal) in decimal is {convert_to_decimal(16, '408F')}.")
+    print(f"3635 (decimal) in hexadecimal is {convert_from_decimal(16, 3635)}.")
