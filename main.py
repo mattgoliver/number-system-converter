@@ -1,6 +1,6 @@
 """Positional Number System Converter.
 
-I am learning about positional number systems on my IT 101 class,
+I am learning about positional number systems in my IT 101 class,
 so I figured what better way to review them than to program something with them.
 
 Author: Matthew Oliver
